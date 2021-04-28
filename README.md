@@ -65,7 +65,3 @@ Other works using WLASL dataset you might also be interested:
 ```
 
 
-Contacts
-------------------
-- [Dongxu Li](https://cecs.anu.edu.au/people/dongxu-li): dongxu.li@anu.edu.au
-- [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/): hongdong.li@anu.edu.au
